@@ -1,4 +1,5 @@
-1
-2
-3
-4
+this feature is good to go
+
+- ignore build files
+  - keep build `readme` files
+- also ignore `*.ignore` files
