@@ -1,0 +1,4 @@
+*.ignore
+builds/*
+!builds/README.md
+
